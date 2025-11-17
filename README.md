@@ -18,7 +18,7 @@ Tenho experiência sólida no desenvolvimento de soluções em nuvem, integraç�
 <img align="left" width="30px" style="padding-right: 10px;" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" width="30px" style="padding-right: 10px;" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
@@ -76,14 +76,14 @@ Atendimento a clientes como: Tony Prada, Associação Vidança, Maria Ângela Bi
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CarlosLivius&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=CarlosLivius&show_icons=true&theme=tokyonight&locale=pt-br" 
+/>
+
 
   <img 
     align="left" 
