@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Carlos Livius
+# 👨🏿‍💻 Carlos Livius
 
 **`Engenheiro de Machine Learning e IA | Cloud AWS | Desenvolvimento de Operações`**
 
