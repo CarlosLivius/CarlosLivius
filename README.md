@@ -1,13 +1,11 @@
 # 👨🏻‍💻 Carlos Livius
 
-**`Engenheiro de Machine Learning e IA | Arquitetura em Nuvem AWS | DevOps & Backend`**
+**`Engenheiro de Machine Learning e IA | Cloud AWS | Desenvolvimento de Operações`**
 
-Olá! Me chamo **Carlos Livius da Silva**, sou desenvolvedor com foco em **arquitetura em nuvem AWS**, **Machine Learning** e **operações de software**.  
-Curso **Sistemas de Informação na UFU** e possuo formação técnica em **Eletrônica pelo CEFET-MG**.  
+Olá! Me chamo **Carlos Livius da Silva**, atuo como Desenvolvedor Júnior com foco em **AWS Cloud**, **Machine Learning**, **GenAI**, **Amazon Bedrock** e **Arquiteturas Cloud escaláveis**.  
+Estou constantemente aprimorando minhas habilidades para me tornar um engenheiro de **Machine Learning & Inteligência Artificial** altamente especializado.
 
-Passei pelo programa de bolsas da **Compass UOL**, onde desenvolvi **10 projetos práticos** utilizando serviços AWS e metodologias ágeis, além de experienciar ML aplicado a soluções reais. Também atuei como proprietário na **Agência L3**, oferecendo serviços de consultoria e identidade visual.
-
-Sou apaixonado por tecnologia, IA e soluções cloud escaláveis.
+Tenho experiência sólida no desenvolvimento de soluções em nuvem, integrações inteligentes, chatbots, pipelines de IA e aplicações modernas que atendem a setores como financeiro, jurídico, educacional e varejo. Também sou proprietário da **Agência L3**, onde presto serviços de marketing digital e identidade visual para negócios B2B.
 
 ---
 
@@ -17,14 +15,13 @@ Sou apaixonado por tecnologia, IA e soluções cloud escaláveis.
 <img align="left" width="30px" style="padding-right: 10px;" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-<img align="left" width="30px" style="padding-right: 10px;" title="CloudFormation" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" width="30px" style="padding-right: 10px;" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" width="30px" style="padding-right: 10px;" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 
 <br/><br/>
 
@@ -32,22 +29,38 @@ Sou apaixonado por tecnologia, IA e soluções cloud escaláveis.
 
 ### 💼 Experiência Profissional
 
-**⭐ Compass UOL — Estagiário (Abr/2023 – Set/2023)**  
-Participação no programa de bolsas com foco em **Machine Learning**, **AWS** e desenvolvimento de soluções escaláveis.  
-- Desenvolvimento de **10 projetos** utilizando metodologias ágeis  
-- Criação de pipelines e soluções serverless com AWS  
-- Experiência prática com ML, visão computacional e NLP  
+**⭐ Compass UOL — Programador 1 (Jan/2024 – Jan/2025)**  
+Atuação com **GenAI**, **Amazon Bedrock**, **SageMaker**, **Chatbots**, **Desenvolvimento Web**, arquiteturas AWS e aplicações inteligentes.  
+Trabalhei em projetos estratégicos para setores: financeiro, jurídico, educacional, crediário e outros segmentos sigilosos.  
+Atuação como **consultor e desenvolvedor**, sempre alinhado às expectativas dos clientes e entregando soluções escaláveis.
+
+**📌 Compass UOL — Estagiário (Abr/2023 – Set/2023)**  
+Participação no programa de Bolsas com foco em AWS e ML:  
+- Desenvolvimento de **10 projetos** usando metodologias ágeis  
+- Criação de soluções com AWS (serverless, cloud-native e pipelines)  
 - 17 certificados Udemy, 4 AWS Partner e **AWS Cloud Practitioner**
 
-**📌 Agência L3 — Proprietário (Ago/2020 – Nov/2021)**  
-Fundador da Agência L3, com foco em consultoria digital, identidade visual e serviços B2B.
+**📎 Agência L3 — Proprietário (Ago/2020 – Atual)**  
+Prestação de serviços B2B em marketing digital, branding e identidade visual.  
+Atendimento a clientes como: Tony Prada, Associação Vidança, Maria Ângela Bittencourt, entre outros.
+
+---
+
+### 🧠 Habilidades Técnicas
+
+- **Linguagens & Frameworks:** Python, Flask, Django, JavaScript, Node.js, Express, SQL  
+- **Versionamento:** Git, GitHub, GitLab  
+- **Cloud & DevOps:** Serverless, Terraform, CloudFormation, CloudFront, S3, EC2, CloudWatch, Elastic Beanstalk, Route 53, DynamoDB  
+- **Machine Learning & IA:** Visão Computacional, Redes Neurais, NLP, Amazon Lex, AWS Rekognition, Bedrock, Agents, LangChain  
 
 ---
 
 ### 🎓 Formação Acadêmica
 
-- **Sistemas de Informação — UFU (2020 – em andamento)**  
-- **Técnico em Eletrônica — CEFET-MG (2017 – 2019)**  
+- **Sistemas de Informação — Universidade Federal de Uberlândia (UFU)**  
+  *Março/2020 – Em andamento*  
+- **Técnico em Eletrônica — CEFET-MG**  
+  *Fev/2017 – Dez/2019*
 
 ---
 
@@ -55,6 +68,7 @@ Fundador da Agência L3, com foco em consultoria digital, identidade visual e se
 
 📧 **E-mail:** livius.14@hotmail.com  
 📱 **Telefone:** (34) 9 9984-9577  
+📍 **Localização:** Uberlândia – MG  
 🔗 **LinkedIn:** https://www.linkedin.com/in/carlos-livius-da-silva-217575203/  
 💻 **GitHub:** https://github.com/CarlosLivius  
 
