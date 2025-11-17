@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Carlos Livius
 
-**`Desenvolvedor de Operações | Cloud AWS | Machine Learning`**
+**`Engenheiro de Machine Learning e IA | Arquitetura em Nuvem AWS | DevOps & Backend`**
 
 Olá! Me chamo **Carlos Livius da Silva**, sou desenvolvedor com foco em **arquitetura em nuvem AWS**, **Machine Learning** e **operações de software**.  
 Curso **Sistemas de Informação na UFU** e possuo formação técnica em **Eletrônica pelo CEFET-MG**.  
