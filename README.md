@@ -1,6 +1,6 @@
 # 👨🏿‍💻 Carlos Livius
 
-**`Engenheiro de Machine Learning e IA | Cloud AWS | Desenvolvimento de Operações`**
+**`Desenvolvedor de Machine Learning e IA | Cloud AWS | Desenvolvimento de Operações`**
 
 Olá! Me chamo **Carlos Livius da Silva**, atuo como Desenvolvedor Júnior com foco em **AWS Cloud**, **Machine Learning**, **GenAI**, **Amazon Bedrock** e **Arquiteturas Cloud escaláveis**.  
 Estou constantemente aprimorando minhas habilidades para me tornar um engenheiro de **Machine Learning & Inteligência Artificial** altamente especializado.
